@@ -46,7 +46,7 @@ Two distinct hash functions were implemented to compare distribution efficiency:
 ### Setup
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/USERNAME/News-Article-Search-Engine.git](https://github.com/USERNAME/News-Article-Search-Engine.git)
+    git clone [https://github.com/yigitScripts/News-Article-Search-Engine.git](https://github.com/yigitScripts/News-Article-Search-Engine.git)
     cd News-Article-Search-Engine
     ```
 
